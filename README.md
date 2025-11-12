@@ -15,6 +15,8 @@ Documenting my daily progress while preparing for the **CompTIA Security+ (SY0-7
 | Day | Date | Topics |
 |-----|------|---------|
 | [Day 1](notes/day01.md) | Nov 9, 2025 | Review / Practice |
+| [Day 2](notes/day02.md) | Nov 10, 2025 | Professor Messer Practice Exam Drills |
+| [Day 3](notes/day03.md) | Nov 11, 2025 | Advanced Security+ Simulations |
 
 ---
 
