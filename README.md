@@ -19,6 +19,7 @@ Documenting my daily progress while preparing for the **CompTIA Security+ (SY0-7
 | [Day 3](notes/day03.md) | Nov 11, 2025 | Advanced Security+ Simulations |
 | [Day 4](notes/day04.md) | Nov 12, 2025 | Exam, Quizzes & Weak-Points |
 | [Day 5](notes/day05.md) | Nov 13, 2025 | Weak Area Mastery & High-Accuracy Retest |
+| [Day 6](notes/day06.md) | Nov 14, 2025 | Exam A/B/C Review & High-Volume Study Session |
 
 ---
 
