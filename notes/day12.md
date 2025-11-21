@@ -69,7 +69,7 @@ I ended the day knowing *exactly* what I need to drill next to hit consistent 85
 
 ### 📊 Total Questions Completed Today  
 **90 questions** (Practice Exam C)  
-**100 questions** (ChatGPT strengthing weak area questions)  
+**100 questions** (ChatGPT Strengthening weak area questions)  
 **Score:** 68/90 → **75.5%**  
 
 Estimated total: **190 questions**  
