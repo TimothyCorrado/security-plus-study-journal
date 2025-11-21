@@ -69,7 +69,9 @@ This session built the confidence needed for the final stretch toward test readi
 ### 📊 Total Questions Completed Today
 **90 questions**
 **24 questions** (all missed from Practice Exam B)  
-**Score:** 66/90 → **73.3%**
+**Score:** 66/90 → **73.3%**  
+
+Estimated total: **114 questions**  
 
 ---
 
