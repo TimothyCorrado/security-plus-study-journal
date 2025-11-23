@@ -27,6 +27,7 @@ Documenting my daily progress while preparing for the **CompTIA Security+ (SY0-7
 | [Day 11](notes/day11.md) | Nov 19, 2025 | Focused Weak-Spot Drills & Mastery Review |
 | [Day 12](notes/day12.md) | Nov 20, 2025 | Practice Exam C Review & Targeted Weak-Spot Mapping |
 | [Day 13](notes/day13.md) | Nov 21, 2025 | Exam Purchased & Final Prep Mode |
+| [Day 14](notes/day14.md) | Nov 22, 2025 | Exam Scheduled & Entering ACTUAL Final Review Mode |
 
 ---
 
