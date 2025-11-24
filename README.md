@@ -29,6 +29,7 @@ Documenting my daily progress while preparing for the **CompTIA Security+ (SY0-7
 | [Day 13](notes/day13.md) | Nov 21, 2025 | Exam Purchased & Final Prep Mode |
 | [Day 14](notes/day14.md) | Nov 22, 2025 | Exam Scheduled & Entering ACTUAL Final Review Mode |
 | [Day 15](notes/day15.md) | Nov 23, 2025 | Final Exam Readiness & Master-Level Drills |
+| [Day 16](notes/day16.md) | Nov 24, 2025 | Security+ Exam Day (PASSED) |
 
 ---
 
